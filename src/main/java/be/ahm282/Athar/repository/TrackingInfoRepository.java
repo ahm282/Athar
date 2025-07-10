@@ -1,7 +1,6 @@
 package be.ahm282.Athar.repository;
 
 import be.ahm282.Athar.domain.TrackingInfo;
-import be.ahm282.Athar.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
